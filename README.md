@@ -7,4 +7,11 @@
 <p>I like playing chess, you can send me a friend request or challenge me: https://lichess.org/@/AndresSaAgu</p>
 
 <!--START_SECTION:waka-->
+```text
+Java         12 hrs 5 mins   ████████████████░░░░░░░░░   63.87 % 
+SQL          2 hrs 22 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+JSON         2 hrs 17 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+JavaScript   2 hrs 9 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+XML          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+```
 <!--END_SECTION:waka-->
