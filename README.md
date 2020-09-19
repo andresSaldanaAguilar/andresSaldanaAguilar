@@ -1,4 +1,4 @@
-# Hi, My name is Andres Saldaña, I'm a computer systems engineer from México :computer: :boy:
+# Hi, My name is Andres Saldaña, I'm a Software Engineer from México :computer: :boy:
 
 [![Linkedin: andressaldanaaguilar](https://img.shields.io/badge/-andressaldanaaguilar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/andressaldanaaguilar)
 
