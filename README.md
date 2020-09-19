@@ -7,6 +7,7 @@
 <p>I like playing chess, you can send me a friend request or challenge me: https://lichess.org/@/AndresSaAgu</p>
 
 <p> My waka time stats: </p>
+
 <!--START_SECTION:waka-->
 ```text
 Java         10 hrs 42 mins  ████████████▒░░░░░░░░░░░░   50.00 % 
